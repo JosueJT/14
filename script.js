@@ -20,5 +20,5 @@ document.getElementById("noBtn").addEventListener("mouseover", function() {
 });
 
 document.getElementById("yesBtn").addEventListener("click", function() {
-    document.querySelector(".container").innerHTML = "<h1 class='title'>¡Sabía que dirías que sí! 💕💘</h1>";
+    document.querySelector(".container").innerHTML = "<h1 class='title'>¡Sabía que dirías que sí! TE AMO MI DANIELITA 💕💘</h1>";
 });
